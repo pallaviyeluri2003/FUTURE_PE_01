@@ -1,0 +1,14 @@
+PROMPT 1:
+You are a YouTube content strategist.
+Suggest 5 viral YouTube video titles for the topic: "{{TOPIC}}".
+Target audience: Students.
+Tone: Simple and engaging.
+
+PROMPT 2:
+Act as a YouTube script writer.
+Write a detailed YouTube script (1000–1200 words)
+with hook, explanation, examples, and CTA.
+
+PROMPT 3:
+Act as a thumbnail designer.
+Suggest 3 thumbnail texts and describe the design.
