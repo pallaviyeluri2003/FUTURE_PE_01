@@ -1,3 +1,13 @@
+FUTURE_PE_01/
+│
+└── task2/
+    ├── website_link.txt
+    ├── AI_features_summary.txt
+    └── screenshots/
+        ├── homepage.png
+        ├── about.png
+        └── projects.png
+
 Name: AI_features_summary.txt
 
 Inside the file type cheyyi (example template):
