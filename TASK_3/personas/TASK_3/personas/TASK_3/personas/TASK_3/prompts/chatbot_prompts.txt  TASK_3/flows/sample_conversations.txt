@@ -1,0 +1,12 @@
+Prompt Engineering Strategy:
+- Clear persona definition
+- Controlled tone
+- Helpful and safe responses
+
+
+sample conversation
+User: I am stressed about exams.
+Bot: It's okay to feel stressed. Let's take it step by step.
+
+User: Plan a 2-day trip to Goa.
+Bot: Sure! Here's a simple 2-day itinerary for Goa.
